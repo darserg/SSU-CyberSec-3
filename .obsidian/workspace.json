@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "3dfa6ed4a561d47e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3cbba29f54bcb07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b164b14bdf8b431a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ЯП/ЯП 02_09_2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ЯП 02_09_2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bcc07bea1da9279",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac1a1f58b672b84f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2403d9c5b8e7e66c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d5c749bb2a179a75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8ccdf7acd4d1209d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1f76b0b2937f44c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "589273f7a4a30f01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0042e19c38a94e03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "АСВТ/Сентябрь/АСВТ 2_09_2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for АСВТ 2_09_2025"
+            }
+          },
+          {
+            "id": "5c1bb4b44ab1d534",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "АСВТ/Сентябрь/АСВТ 2_09_2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from АСВТ 2_09_2025"
+            }
+          },
+          {
+            "id": "d4473c7f452ad3d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7feece22656fe87e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "АСВТ/Сентябрь/АСВТ 2_09_2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of АСВТ 2_09_2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "b164b14bdf8b431a",
+  "lastOpenFiles": [
+    "БЖД/Сентябрь/БЖД 02_09_2025.md",
+    "ЯП/ЯП 02_09_2025.md",
+    "attachments/Пересдачи лето 2023-2024 29.09.24.pdf",
+    "attachments",
+    "ЯП",
+    "attachments/photo_2025-09-02 11.22.34.jpeg",
+    "attachments/photo_2025-09-02 10.29.33.jpeg",
+    "БЖД/Сентябрь",
+    "АСВТ/Сентябрь/АСВТ 2_09_2025.md",
+    "БЖД",
+    "АСВТ/Сентябрь",
+    "АСВТ",
+    "Welcome.md"
+  ]
+}
