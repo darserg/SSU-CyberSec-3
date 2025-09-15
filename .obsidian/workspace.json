@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "English 15_09_2025"
             }
-          },
-          {
-            "id": "c714aa11d33caeda",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +170,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c714aa11d33caeda",
+  "active": "69a48298b8293a46",
   "lastOpenFiles": [
     "English/Septermber/English 15_09_2025.md",
     "ЯП/ЯП 02_09_2025.md",
