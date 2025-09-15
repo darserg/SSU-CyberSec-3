@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "673356c1464f4d48",
+        "id": "a8097cbee76785aa",
         "type": "tabs",
         "children": [
           {
-            "id": "ed70b774de71a3eb",
+            "id": "69a48298b8293a46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ЯП/ЯП 09_09_2025.md",
+                "file": "English/Septermber/English 15_09_2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ЯП 09_09_2025"
+              "title": "English 15_09_2025"
+            }
+          },
+          {
+            "id": "c714aa11d33caeda",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1f76b0b2937f44c2",
@@ -171,11 +181,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ed70b774de71a3eb",
+  "active": "c714aa11d33caeda",
   "lastOpenFiles": [
-    "АСВТ/Сентябрь/АСВТ 9_09_2025.md",
-    "ЯП/ЯП 09_09_2025.md",
+    "English/Septermber/English 15_09_2025.md",
+    "ЯП/ЯП 02_09_2025.md",
+    "English/Septermber",
+    "БЖД/Доклады/Зрительный анализатор.md",
+    "English",
     "БЖД/Сентябрь/БЖД 08_09_2025.md",
+    "ЯП/ЯП 09_09_2025.md",
+    "Excalidraw/Drawing 2025-09-14 15.58.07.excalidraw.md",
+    "БЖД/Доклады",
+    "АСВТ/Сентябрь/АСВТ 9_09_2025.md",
     "Untitled 1.md",
     "Untitled.md",
     "Excalidraw/Drawing 2025-09-08 13.00.09.excalidraw.md",
@@ -192,15 +209,11 @@
     "Дискретная математика",
     "Бэкенд/Сентябрь",
     "Бэкенд",
-    "ЯП/ЯП 02_09_2025.md",
     "attachments/Пересдачи лето 2023-2024 29.09.24.pdf",
     "attachments",
-    "ЯП",
     "attachments/photo_2025-09-02 11.22.34.jpeg",
     "attachments/photo_2025-09-02 10.29.33.jpeg",
-    "БЖД/Сентябрь",
     "АСВТ/Сентябрь/АСВТ 2_09_2025.md",
-    "БЖД",
     "Welcome.md"
   ]
 }
