@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "БЖД/Сентябрь/БЖД 15_09_2025.md",
+                "file": "АСВТ/Сентябрь/АСВТ 16_09_2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "БЖД 15_09_2025"
+              "title": "АСВТ 16_09_2025"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1f76b0b2937f44c2",
@@ -173,10 +172,12 @@
   },
   "active": "69a48298b8293a46",
   "lastOpenFiles": [
-    "БЖД/Сентябрь/БЖД 08_09_2025.md",
-    "БЖД/Сентябрь/БЖД 15_09_2025.md",
-    "English/Septermber/English 15_09_2025.md",
     "ЯП/ЯП 02_09_2025.md",
+    "АСВТ/Сентябрь/АСВТ 16_09_2025.md",
+    "Untitled.md",
+    "БЖД/Сентябрь/БЖД 15_09_2025.md",
+    "БЖД/Сентябрь/БЖД 08_09_2025.md",
+    "English/Septermber/English 15_09_2025.md",
     "English/Septermber",
     "БЖД/Доклады/Зрительный анализатор.md",
     "English",
@@ -185,7 +186,6 @@
     "БЖД/Доклады",
     "АСВТ/Сентябрь/АСВТ 9_09_2025.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Excalidraw/Drawing 2025-09-08 13.00.09.excalidraw.md",
     "БЖД/Сентябрь/БЖД 02_09_2025.md",
     "Excalidraw/Drawing 2025-09-08 12.35.34.excalidraw.md",
