@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a8097cbee76785aa",
+        "id": "8dfd58b3738a0e56",
         "type": "tabs",
         "children": [
           {
-            "id": "69a48298b8293a46",
+            "id": "4e63aac8cfca50f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Septermber/English 17_09_2025.md",
+                "file": "АСВТ/АСВТ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "English 17_09_2025"
+              "title": "АСВТ"
             }
           }
         ]
@@ -170,17 +170,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "69a48298b8293a46",
+  "active": "4e63aac8cfca50f0",
   "lastOpenFiles": [
-    "sciencedaily.com.md",
+    "Untitled.md",
+    "АСВТ/АСВТ.md",
+    "ЯП/Standard ML.md",
+    "БЖД/Доклады.md",
+    "БЖД/БЖД.md",
+    "БЖД/Доклады/Untitled.md",
+    "Бэкенд/Бэкенд.md",
+    "Дискретная математика/Дискретная математика.md",
     "English/Septermber/English 17_09_2025.md",
+    "sciencedaily.com.md",
     "English/English.md",
-    "АСВТ/Standard ML.md",
     "ЯП/ЯП 09_09_2025.md",
     "ЯП/ЯП 16_09_2025.md",
     "ЯП/ЯП 02_09_2025.md",
     "АСВТ/Сентябрь/АСВТ 16_09_2025.md",
-    "Untitled.md",
     "БЖД/Сентябрь/БЖД 15_09_2025.md",
     "БЖД/Сентябрь/БЖД 08_09_2025.md",
     "English/Septermber/English 15_09_2025.md",
@@ -195,12 +201,7 @@
     "БЖД/Сентябрь/БЖД 02_09_2025.md",
     "Excalidraw/Drawing 2025-09-08 12.35.34.excalidraw.md",
     "Дискретная математика/Сентябрь/Дискетная математика 5_09_2025.md",
-    "Excalidraw/Drawing 2025-09-06 18.58.57.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-06 18.58.25.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-06 18.56.58.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-06 18.54.43.excalidraw.md",
     "Excalidraw",
-    "Бэкенд/Сентябрь/Бэкенд 5_09_2025.md",
     "Дискретная математика/Сентябрь",
     "Дискретная математика",
     "Бэкенд/Сентябрь",
@@ -208,7 +209,6 @@
     "attachments/Пересдачи лето 2023-2024 29.09.24.pdf",
     "attachments",
     "attachments/photo_2025-09-02 11.22.34.jpeg",
-    "attachments/photo_2025-09-02 10.29.33.jpeg",
-    "АСВТ/Сентябрь/АСВТ 2_09_2025.md"
+    "attachments/photo_2025-09-02 10.29.33.jpeg"
   ]
 }
