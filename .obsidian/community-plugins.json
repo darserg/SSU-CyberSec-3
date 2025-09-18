@@ -1,4 +1,16 @@
 [
   "obsidian-latex-suite",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "calendar",
+  "obsidian-file-color",
+  "obsidian-icon-folder",
+  "colored-tags",
+  "file-explorer-note-count",
+  "ninja-cursor",
+  "cmdr",
+  "code-styler",
+  "omnisearch",
+  "highlightr-plugin",
+  "table-editor-obsidian",
+  "obsidian-git"
 ]

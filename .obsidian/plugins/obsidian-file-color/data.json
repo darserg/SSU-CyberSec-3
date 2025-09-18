@@ -1,0 +1,47 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "bzfFF9x0UDG7wI_QLbIbU",
+      "name": "Programming",
+      "value": "#108a00"
+    },
+    {
+      "id": "l7htitNe9VncAv0Wn2t6B",
+      "name": "Math",
+      "value": "#b30000"
+    },
+    {
+      "id": "aeV3qqyu_Vt-QUAEuD4kv",
+      "name": "Humanities",
+      "value": "#00558a"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "АСВТ",
+      "color": "bzfFF9x0UDG7wI_QLbIbU"
+    },
+    {
+      "path": "БЖД",
+      "color": "aeV3qqyu_Vt-QUAEuD4kv"
+    },
+    {
+      "path": "Бэкенд",
+      "color": "bzfFF9x0UDG7wI_QLbIbU"
+    },
+    {
+      "path": "Дискретная математика",
+      "color": "l7htitNe9VncAv0Wn2t6B"
+    },
+    {
+      "path": "ЯП",
+      "color": "bzfFF9x0UDG7wI_QLbIbU"
+    },
+    {
+      "path": "English",
+      "color": "aeV3qqyu_Vt-QUAEuD4kv"
+    }
+  ]
+}
