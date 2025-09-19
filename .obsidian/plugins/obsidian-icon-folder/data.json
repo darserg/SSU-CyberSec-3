@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPin",
+      "LiExcalidrawIcon",
       "LiLanguages",
       "LiMathFunction",
-      "LiMath",
-      "LiComputer",
-      "🧷"
+      "LiMath"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,7 +37,9 @@
   "АСВТ": "LiCpu",
   "БЖД": "🧷",
   "Бэкенд": "LiComputer",
-  "Дискретная математика": "LiMathFunction",
   "ЯП": "LiCpu",
-  "English": "LiLanguages"
+  "English": "LiLanguages",
+  "Excalidraw": "LiExcalidrawIcon",
+  "attachments": "LiPin",
+  "Дискретная математика": "LiMath"
 }

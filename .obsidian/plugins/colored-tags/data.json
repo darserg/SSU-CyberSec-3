@@ -13,7 +13,11 @@
     "excalidraw": 1,
     "АСВТ": 2,
     "SML": 3,
-    "ProgrammingLanguages": 4
+    "ProgrammingLanguages": 4,
+    "БЖД": 5,
+    "English": 6,
+    "Бэкенд": 7,
+    "Python": 8
   },
   "_version": 3
 }
