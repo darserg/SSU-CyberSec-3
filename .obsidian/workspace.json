@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Septermber/English 22_09_2025.md",
+                "file": "БЖД/Сентябрь/БЖД 22_09_2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "English 22_09_2025"
+              "title": "БЖД 22_09_2025"
             }
           }
         ]
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 263.5
   },
   "right": {
     "id": "1f76b0b2937f44c2",
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Septermber/English 22_09_2025.md",
+                "file": "БЖД/Сентябрь/БЖД 22_09_2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of English 22_09_2025"
+              "title": "Outline of БЖД 22_09_2025"
             }
           },
           {
@@ -210,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,6 +229,9 @@
   },
   "active": "20c0187e3ae3fbba",
   "lastOpenFiles": [
+    "Дискретная математика/Сентябрь/Дискетная математика 5_09_2025.md",
+    "БЖД/Сентябрь/БЖД 22_09_2025.md",
+    "БЖД/Сентябрь/БЖД 15_09_2025.md",
     "English/Septermber/English 22_09_2025.md",
     "English/Septermber/English 17_09_2025.md",
     "English/English.md",
@@ -249,18 +252,15 @@
     "БЖД/Доклады/Зрительный анализатор.md",
     "БЖД/Сентябрь/БЖД 02_09_2025.md",
     "БЖД/Сентябрь/БЖД 08_09_2025.md",
-    "БЖД/Сентябрь/БЖД 15_09_2025.md",
     "Бэкенд/Untitled.base",
     "ЯП/Запуск и установка SML в Unix-системах.md",
     "ЯП/Standard ML.md",
     "ЯП/Сентябрь/ЯП 16_09_2025.md",
     "Дискретная математика/Сентябрь/Дискретная математика 12_09_2025.md",
-    "Дискретная математика/Сентябрь/Дискетная математика 5_09_2025.md",
     "Дискретная математика/Дискретная математика.md",
     "АСВТ/Сентябрь/АСВТ 2_09_2025.md",
     "ЯП/Сентябрь",
     "Excalidraw/Drawing 2025-09-14 15.58.07.excalidraw.md",
-    "АСВТ/АСВТ.md",
     "English/Septermber",
     "English",
     "БЖД/Доклады",
