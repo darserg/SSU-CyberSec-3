@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бэкенд/Сентябрь/Бэкенд 19_09_2025.md",
+                "file": "English/Septermber/English 22_09_2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Бэкенд 19_09_2025"
+              "title": "English 22_09_2025"
             }
           }
         ]
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 213.5
   },
   "right": {
     "id": "1f76b0b2937f44c2",
@@ -169,12 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "English/Septermber/English 22_09_2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of English 22_09_2025"
             }
           },
           {
@@ -209,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,13 +224,16 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a42b56c5dfd51a80",
+  "active": "20c0187e3ae3fbba",
   "lastOpenFiles": [
+    "English/Septermber/English 22_09_2025.md",
+    "English/Septermber/English 17_09_2025.md",
+    "English/English.md",
     "Бэкенд/Сентябрь/Бэкенд 19_09_2025.md",
+    "ЯП/Сентябрь/ЯП 09_09_2025.md",
     "templates/Конспекты.md",
     "2025-09-19.md",
     "Бэкенд/Бэкенд.md",
@@ -238,7 +242,6 @@
     "Бэкенд/Untitled",
     "attachments/photo_2025-09-02 11.22.34.jpeg",
     "attachments/photo_2025-09-02 10.29.33.jpeg",
-    "English/Septermber/English 17_09_2025.md",
     "English/Septermber/English 15_09_2025.md",
     "ЯП/Сентябрь/ЯП 02_09_2025.md",
     "АСВТ/Сентябрь/АСВТ 16_09_2025.md",
@@ -256,11 +259,8 @@
     "Дискретная математика/Дискретная математика.md",
     "АСВТ/Сентябрь/АСВТ 2_09_2025.md",
     "ЯП/Сентябрь",
-    "ЯП/Сентябрь/ЯП 09_09_2025.md",
     "Excalidraw/Drawing 2025-09-14 15.58.07.excalidraw.md",
     "АСВТ/АСВТ.md",
-    "Untitled.md",
-    "БЖД/Доклады.md",
     "English/Septermber",
     "English",
     "БЖД/Доклады",
