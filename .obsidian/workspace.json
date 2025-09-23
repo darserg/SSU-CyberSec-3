@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "БЖД/БЖД.md",
+                "file": "АСВТ/Сентябрь/АСВТ 23_09_2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "БЖД"
+              "title": "АСВТ 23_09_2025"
             }
           }
         ]
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "БЖД/БЖД.md",
+                "file": "АСВТ/Сентябрь/АСВТ 23_09_2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of БЖД"
+              "title": "Outline of АСВТ 23_09_2025"
             }
           },
           {
@@ -215,7 +215,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -224,18 +223,23 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "graph:Open graph view": false
     }
   },
   "active": "20c0187e3ae3fbba",
   "lastOpenFiles": [
-    "БЖД/Сентябрь/БЖД 02_09_2025.md",
+    "attachments/CleanShot 2025-09-22 at 15.20.21@2x.png",
+    "attachments/CleanShot 2025-09-22 at 15.09.56@2x.png",
+    "АСВТ/Сентябрь/АСВТ 23_09_2025.md",
+    "АСВТ/Сентябрь/АСВТ 2_09_2025.md",
+    "АСВТ/Сентябрь/АСВТ 9_09_2025.md",
+    "АСВТ/Сентябрь/АСВТ 16_09_2025.md",
     "БЖД/БЖД.md",
+    "БЖД/Сентябрь/БЖД 02_09_2025.md",
     "БЖД/Практики/Практики.md",
     "БЖД/Практика 22_09_2025.md",
     "БЖД/Практики",
-    "attachments/CleanShot 2025-09-22 at 15.20.21@2x.png",
-    "attachments/CleanShot 2025-09-22 at 15.09.56@2x.png",
     "БЖД/Сентябрь/БЖД 22_09_2025.md",
     "БЖД/Сентябрь/БЖД 15_09_2025.md",
     "БЖД/Сентябрь/БЖД 08_09_2025.md",
@@ -256,14 +260,9 @@
     "attachments/photo_2025-09-02 10.29.33.jpeg",
     "English/Septermber/English 15_09_2025.md",
     "ЯП/Сентябрь/ЯП 02_09_2025.md",
-    "АСВТ/Сентябрь/АСВТ 16_09_2025.md",
-    "АСВТ/Сентябрь/АСВТ 9_09_2025.md",
     "БЖД/Доклады/Зрительный анализатор.md",
     "Бэкенд/Untitled.base",
     "ЯП/Запуск и установка SML в Unix-системах.md",
-    "ЯП/Standard ML.md",
-    "ЯП/Сентябрь/ЯП 16_09_2025.md",
-    "Дискретная математика/Сентябрь/Дискретная математика 12_09_2025.md",
     "ЯП/Сентябрь",
     "English/Septermber",
     "English",
