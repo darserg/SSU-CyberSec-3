@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ЯП/Сентябрь/ЯП 23_09_2025.md",
+                "file": "English/Septermber/English 23_09_2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ЯП 23_09_2025"
+              "title": "English 23_09_2025"
             }
           }
         ]
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "1f76b0b2937f44c2",
@@ -169,23 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ЯП/Сентябрь/ЯП 23_09_2025.md",
+                "file": "English/Septermber/English 23_09_2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ЯП 23_09_2025"
-            }
-          },
-          {
-            "id": "dd1ba34a50733784",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of English 23_09_2025"
             }
           }
         ],
@@ -210,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,9 +221,10 @@
   },
   "active": "20c0187e3ae3fbba",
   "lastOpenFiles": [
+    "ЯП/Сентябрь/ЯП 23_09_2025.md",
+    "English/Septermber/English 23_09_2025.md",
     "Дискретная математика/Дискретная математика.md",
     "Дискретная математика/Сентябрь/Дискетная математика 5_09_2025.md",
-    "ЯП/Сентябрь/ЯП 23_09_2025.md",
     "АСВТ/Сентябрь/АСВТ 23_09_2025.md",
     "АСВТ/Сентябрь/АСВТ 2_09_2025.md",
     "attachments/CleanShot 2025-09-22 at 15.20.21@2x.png",
@@ -262,7 +255,6 @@
     "attachments/photo_2025-09-02 10.29.33.jpeg",
     "English/Septermber/English 15_09_2025.md",
     "ЯП/Сентябрь/ЯП 02_09_2025.md",
-    "БЖД/Доклады/Зрительный анализатор.md",
     "Бэкенд/Untitled.base",
     "ЯП/Сентябрь",
     "English/Septermber",
