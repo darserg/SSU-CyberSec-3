@@ -17,7 +17,9 @@
     "БЖД": 5,
     "English": 6,
     "Бэкенд": 7,
-    "Python": 8
+    "Python": 8,
+    "backend": 9,
+    "Backend": 10
   },
   "_version": 3
 }
