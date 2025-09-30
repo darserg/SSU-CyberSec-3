@@ -32,27 +32,13 @@
             }
           },
           {
-            "id": "646b8d3e5619fc8a",
+            "id": "3910bff86ccea2a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "АСВТ/Сентябрь/АСВТ 30_09_2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "АСВТ 30_09_2025"
+              "title": "New tab"
             }
           }
         ],
@@ -250,8 +236,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a42b56c5dfd51a80",
+  "active": "3910bff86ccea2a4",
   "lastOpenFiles": [
+    "ЯП/Сентябрь/ЯП 16_09_2025.md",
     "АСВТ/Сентябрь/АСВТ 30_09_2025.md",
     "БЖД/Практики/Практика 29_09_2025.md",
     "БЖД/Практики/Практика 22_09_2025.md",
@@ -267,7 +254,6 @@
     "Бэкенд/Сентябрь/Бэкенд 26_09_2025.md",
     "Бэкенд/Сентябрь/Бэкенд 19_09_2025.md",
     "ЯП/Сентябрь/ЯП 09_09_2025.md",
-    "ЯП/Сентябрь/ЯП 16_09_2025.md",
     "Наука будущего/Что мы знаем о поведении и принятии решений и как это связано с развитием ИИ.md",
     "Наука будущего",
     "ЯП/Сентябрь/ЯП 02_09_2025.md",
