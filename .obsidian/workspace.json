@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "453d3d813f57d3ad",
+            "id": "9a827a6809414187",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бэкенд/Сентябрь/Бэкенд 26_09_2025.md",
+                "file": "БЖД/Практики/Практика 29_09_2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Бэкенд 26_09_2025"
+              "title": "Практика 29_09_2025"
+            }
+          },
+          {
+            "id": "646b8d3e5619fc8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "АСВТ/Сентябрь/АСВТ 30_09_2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "АСВТ 30_09_2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "1f76b0b2937f44c2",
@@ -169,13 +195,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бэкенд/Сентябрь/Бэкенд 26_09_2025.md",
+                "file": "АСВТ/Сентябрь/АСВТ 30_09_2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Бэкенд 26_09_2025"
+              "title": "Outline of АСВТ 30_09_2025"
+            }
+          },
+          {
+            "id": "1dc68de1de43c742",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -216,15 +252,25 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2403d9c5b8e7e66c",
+  "active": "646b8d3e5619fc8a",
   "lastOpenFiles": [
-    "Бэкенд/Сентябрь/Бэкенд 19_09_2025.md",
+    "АСВТ/Сентябрь/АСВТ 30_09_2025.md",
+    "БЖД/Практики/Практика 29_09_2025.md",
+    "БЖД/Практики/Практика 22_09_2025.md",
+    "ЯП/Сентябрь/ЯП 23_09_2025.md",
+    "Untitled.md",
+    "БЖД/Сентябрь/БЖД 29_09_2025.md",
+    "БЖД/Сентябрь/БЖД 22_09_2025.md",
+    "English/Septermber/English 29_09_2025.md",
+    "English/Septermber/English 24_09_2025.md",
+    "attachments/biorythms_marked.png",
+    "БЖД/Практики/Практики.md",
+    "attachments/CleanShot 2025-09-22 at 15.20.21@2x.png",
     "Бэкенд/Сентябрь/Бэкенд 26_09_2025.md",
+    "Бэкенд/Сентябрь/Бэкенд 19_09_2025.md",
     "ЯП/Сентябрь/ЯП 09_09_2025.md",
     "ЯП/Сентябрь/ЯП 16_09_2025.md",
-    "ЯП/Сентябрь/ЯП 23_09_2025.md",
     "Наука будущего/Что мы знаем о поведении и принятии решений и как это связано с развитием ИИ.md",
-    "English/Septermber/English 24_09_2025.md",
     "Наука будущего",
     "ЯП/Сентябрь/ЯП 02_09_2025.md",
     "Матан/Пример для частной производной.md",
@@ -233,23 +279,14 @@
     "Дискретная математика/Сентябрь/Дискетная математика 5_09_2025.md",
     "АСВТ/Сентябрь/АСВТ 23_09_2025.md",
     "АСВТ/Сентябрь/АСВТ 2_09_2025.md",
-    "attachments/CleanShot 2025-09-22 at 15.20.21@2x.png",
     "attachments/CleanShot 2025-09-22 at 15.09.56@2x.png",
     "АСВТ/Сентябрь/АСВТ 9_09_2025.md",
     "АСВТ/Сентябрь/АСВТ 16_09_2025.md",
     "БЖД/БЖД.md",
     "БЖД/Сентябрь/БЖД 02_09_2025.md",
-    "БЖД/Практики/Практики.md",
-    "БЖД/Практика 22_09_2025.md",
     "БЖД/Практики",
-    "БЖД/Сентябрь/БЖД 22_09_2025.md",
     "БЖД/Сентябрь/БЖД 15_09_2025.md",
-    "БЖД/Сентябрь/БЖД 08_09_2025.md",
     "БЖД/Сентябрь.zip",
-    "English/Septermber/English 22_09_2025.md",
-    "English/Septermber/English 17_09_2025.md",
-    "English/English.md",
-    "templates/Конспекты.md",
     "templates",
     "Бэкенд/Untitled",
     "attachments/photo_2025-09-02 11.22.34.jpeg",

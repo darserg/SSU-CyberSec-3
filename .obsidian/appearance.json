@@ -4,5 +4,6 @@
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrainsMono Nerd Font",
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
-  "accentColor": "#1e7187"
+  "accentColor": "#1e7187",
+  "theme": "obsidian"
 }
