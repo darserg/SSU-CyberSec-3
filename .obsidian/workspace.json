@@ -131,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "1f76b0b2937f44c2",
@@ -195,13 +194,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "АСВТ/Сентябрь/АСВТ 30_09_2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of АСВТ 30_09_2025"
+              "title": "Outline"
             }
           },
           {
@@ -252,7 +250,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "646b8d3e5619fc8a",
+  "active": "a42b56c5dfd51a80",
   "lastOpenFiles": [
     "АСВТ/Сентябрь/АСВТ 30_09_2025.md",
     "БЖД/Практики/Практика 29_09_2025.md",
