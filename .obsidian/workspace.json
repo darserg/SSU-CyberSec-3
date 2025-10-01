@@ -35,10 +35,24 @@
             "id": "3910bff86ccea2a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "English/October/English 01_10_2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "English 01_10_2025"
             }
           }
         ],
@@ -180,12 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "English/October/English 01_10_2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of English 01_10_2025"
             }
           },
           {
@@ -220,7 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,16 +253,18 @@
   },
   "active": "3910bff86ccea2a4",
   "lastOpenFiles": [
+    "English/Septermber/English 24_09_2025.md",
+    "БЖД/Практики/Практика 29_09_2025.md",
+    "English/October/English 01_10_2025.md",
+    "English/Septermber/English 29_09_2025.md",
+    "English/October",
     "ЯП/Сентябрь/ЯП 16_09_2025.md",
     "АСВТ/Сентябрь/АСВТ 30_09_2025.md",
-    "БЖД/Практики/Практика 29_09_2025.md",
     "БЖД/Практики/Практика 22_09_2025.md",
     "ЯП/Сентябрь/ЯП 23_09_2025.md",
     "Untitled.md",
     "БЖД/Сентябрь/БЖД 29_09_2025.md",
     "БЖД/Сентябрь/БЖД 22_09_2025.md",
-    "English/Septermber/English 29_09_2025.md",
-    "English/Septermber/English 24_09_2025.md",
     "attachments/biorythms_marked.png",
     "БЖД/Практики/Практики.md",
     "attachments/CleanShot 2025-09-22 at 15.20.21@2x.png",
@@ -269,7 +286,6 @@
     "БЖД/БЖД.md",
     "БЖД/Сентябрь/БЖД 02_09_2025.md",
     "БЖД/Практики",
-    "БЖД/Сентябрь/БЖД 15_09_2025.md",
     "БЖД/Сентябрь.zip",
     "templates",
     "Бэкенд/Untitled",
@@ -277,7 +293,6 @@
     "attachments/photo_2025-09-02 10.29.33.jpeg",
     "Бэкенд/Untitled.base",
     "ЯП/Сентябрь",
-    "English/Septermber",
-    "English"
+    "English/Septermber"
   ]
 }
