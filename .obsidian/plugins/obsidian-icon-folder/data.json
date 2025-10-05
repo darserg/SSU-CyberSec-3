@@ -43,5 +43,6 @@
   "attachments": "LiPin",
   "Дискретная математика": "LiMath",
   "Матан": "LiMathFunction",
-  "Наука будущего": "LiAperture"
+  "Дополнительные лекции/Наука будущего": "LiAperture",
+  "Дополнительные лекции": "LiAperture"
 }
