@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7700f7ec2181fbc4",
+        "id": "9e2f1e5d29e0dc57",
         "type": "tabs",
         "children": [
           {
-            "id": "5fe46b12ae242ebf",
+            "id": "1e2691b99755c220",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/October/English 01_10_2025.md",
+                "file": "АСВТ/Октябрь/АСВТ 07_10_2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "English 01_10_2025"
+              "title": "АСВТ 07_10_2025"
             }
           }
         ]
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 288.50390243530273
   },
   "right": {
     "id": "1f76b0b2937f44c2",
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/October/English 01_10_2025.md",
+                "file": "АСВТ/Октябрь/АСВТ 07_10_2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of English 01_10_2025"
+              "title": "Outline of АСВТ 07_10_2025"
             }
           },
           {
@@ -210,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,8 +226,25 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5fe46b12ae242ebf",
+  "active": "1e2691b99755c220",
   "lastOpenFiles": [
+    "Матан/Пример для частной производной.md",
+    "English/October/English 06_10_2025.md",
+    "Матан/Дифференциалы.md",
+    "Бэкенд/Октябрь/Бэкенд 03_10_2025.md",
+    "АСВТ/Октябрь/АСВТ 07_10_2025.md",
+    "АСВТ/Октябрь",
+    "БЖД/Практики/Практика 29_09_2025.md",
+    "БЖД/Лекции/Сентябрь/БЖД 29_09_2025.md",
+    "БЖД/Лекции/Октябрь/БЖД 06_10_2025.md",
+    "БЖД/Лекции/Сентябрь/БЖД 22_09_2025.md",
+    "БЖД/Лекции/Сентябрь/БЖД 15_09_2025.md",
+    "БЖД/Практики/Практика 06_10_2025.md",
+    "БЖД/Лекции/Октябрь",
+    "БЖД/Лекции",
+    "attachments/CleanShot 2025-10-06 at 12.06.14@2x.png",
+    "English/October/English 01_10_2025.md",
+    "English/Septermber/English 22_09_2025.md",
     "Untitled.md",
     "Дополнительные лекции",
     "Наука будущего/Untitled",
@@ -237,35 +254,20 @@
     "Excalidraw/Drawing 2025-10-03 12.40.44.excalidraw.md",
     "Excalidraw/Drawing 2025-10-03 12.33.54.excalidraw.md",
     "Excalidraw/Drawing 2025-10-03 12.16.59.excalidraw.md",
-    "БЖД/Практики/Практика 29_09_2025.md",
     "Дискретная математика/Октябрь",
-    "Матан/Дифференциалы.md",
-    "Бэкенд/Октябрь/Бэкенд 03_10_2025.md",
     "Бэкенд/Сентябрь/Бэкенд 19_09_2025.md",
     "Бэкенд/Октябрь",
-    "English/October/English 01_10_2025.md",
     "English/Septermber/English 24_09_2025.md",
     "English/Septermber/English 29_09_2025.md",
     "English/October",
     "ЯП/Сентябрь/ЯП 16_09_2025.md",
     "АСВТ/Сентябрь/АСВТ 30_09_2025.md",
     "БЖД/Практики/Практика 22_09_2025.md",
-    "ЯП/Сентябрь/ЯП 23_09_2025.md",
-    "БЖД/Сентябрь/БЖД 29_09_2025.md",
-    "БЖД/Сентябрь/БЖД 22_09_2025.md",
     "attachments/biorythms_marked.png",
-    "БЖД/Практики/Практики.md",
     "attachments/CleanShot 2025-09-22 at 15.20.21@2x.png",
-    "Бэкенд/Сентябрь/Бэкенд 26_09_2025.md",
-    "Дополнительные лекции/Наука будущего/Что мы знаем о поведении и принятии решений и как это связано с развитием ИИ.md",
     "Дополнительные лекции/Наука будущего",
-    "ЯП/Сентябрь/ЯП 02_09_2025.md",
-    "Матан/Пример для частной производной.md",
     "Матан",
     "attachments/CleanShot 2025-09-22 at 15.09.56@2x.png",
-    "БЖД/Практики",
-    "БЖД/Сентябрь.zip",
-    "templates",
     "attachments/photo_2025-09-02 11.22.34.jpeg",
     "attachments/photo_2025-09-02 10.29.33.jpeg"
   ]
