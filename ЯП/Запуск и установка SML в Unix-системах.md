@@ -31,3 +31,5 @@ echo 'export PATH=/usr/local/smlnj/bin:"$PATH"' >> .zshrc
 ```shell
 sml < <Filename.sml>
 ```
+
+#SML
