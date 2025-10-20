@@ -1,9 +1,10 @@
 {
   "translucency": false,
-  "cssTheme": "Obsidianite",
+  "cssTheme": "GitHub Theme",
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrainsMono Nerd Font",
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
   "accentColor": "#1e7187",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 16
 }
