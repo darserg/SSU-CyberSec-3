@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a1cbae1c91d038b3",
+        "id": "489d05a074bc566a",
         "type": "tabs",
         "children": [
           {
-            "id": "5048d1f4ce8290d9",
+            "id": "d67f35f9424c90c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ЯП/Октябрь/ЯП 21_10_2025.md",
+                "file": "English/October/English 22_10_2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ЯП 21_10_2025"
+              "title": "English 22_10_2025"
             }
           }
         ]
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ЯП/Октябрь/ЯП 21_10_2025.md",
+                "file": "English/October/English 22_10_2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ЯП 21_10_2025"
+              "title": "Outline of English 22_10_2025"
             }
           },
           {
@@ -210,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,8 +227,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5048d1f4ce8290d9",
+  "active": "d67f35f9424c90c9",
   "lastOpenFiles": [
+    "БЖД/Лекции/Октябрь/БЖД 20_10_2025.md",
+    "English/October/English 22_10_2025.md",
+    "English/October/English 20_10_2025.md",
+    "Untitled 1212.md",
     "ЯП/Октябрь/ЯП 21_10_2025.md",
     "daily_notes/20-10-2025.md",
     "daily_notes/27-10-2025.md",
@@ -235,17 +240,14 @@
     "БЖД/Практики/Практики.md",
     "БЖД/Лекции/Октябрь/БЖД 06_10_2025.md",
     "БЖД/Лекции/Октябрь/БЖД 13_10_2025.md",
-    "БЖД/Лекции/Октябрь/БЖД 20_10_2025.md",
     "БЖД/Практики/Практика 20_10_2025.md",
     "attachments/CleanShot 2025-10-20 at 13.28.42@2x.png",
-    "English/October/English 20_10_2025.md",
     "БЖД/Практики/Практика 29_09_2025.md",
     "БЖД/Доклады/Зрительный анализатор.md",
     "БЖД/Практики/Практика 22_09_2025.md",
     "БЖД/Доклады/Доклады.md",
     "БЖД/БЖД.md",
     "English/October/English 15_10_2025.md",
-    "Untitled.md",
     "БЖД/Практики/Практика 14_10_2025.md",
     "English/October/English 08_10_2025.md",
     "English/October/English 06_10_2025.md",
@@ -255,7 +257,6 @@
     "БЖД/Лекции/Сентябрь/БЖД 29_09_2025.md",
     "БЖД/Лекции/Сентябрь/БЖД 22_09_2025.md",
     "БЖД/Лекции/Сентябрь/БЖД 15_09_2025.md",
-    "БЖД/Лекции/Сентябрь/БЖД 08_09_2025.md",
     "ЯП/Октябрь",
     "АСВТ/Октябрь",
     "БЖД/Лекции/Октябрь",
