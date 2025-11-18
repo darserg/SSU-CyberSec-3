@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3f40839cd2cde777",
+        "id": "365601f58fd1331b",
         "type": "tabs",
         "children": [
           {
-            "id": "539d520df1bf27e0",
+            "id": "b10dc9ee4986c987",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "БЖД/Лекции/Ноябрь/Лекция 17_11_2025.md",
+                "file": "ЯП/Ноябрь/ЯП 18_11_2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Лекция 17_11_2025"
+              "title": "ЯП 18_11_2025"
             }
           }
         ]
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "БЖД/Лекции/Ноябрь/Лекция 17_11_2025.md",
+                "file": "ЯП/Ноябрь/ЯП 18_11_2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Лекция 17_11_2025"
+              "title": "Outline of ЯП 18_11_2025"
             }
           }
         ],
@@ -217,15 +217,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "539d520df1bf27e0",
+  "active": "b10dc9ee4986c987",
   "lastOpenFiles": [
-    "Доклад.md",
+    "ЯП/Ноябрь/ЯП 11_11_2025.md",
+    "ЯП/Ноябрь/ЯП 18_11_2025.md",
     "БЖД/Лекции/Ноябрь/Лекция 17_11_2025.md",
+    "Доклад.md",
     "daily_notes/17-11-2025.md",
     "daily_notes/24-11-2025.md",
     "English/November/English 17_11_2025.md",
     "БЖД/Лекции/Untitled.md",
-    "ЯП/Ноябрь/ЯП 11_11_2025.md",
     "ЯП/Октябрь/ЯП 28_10_2025.md",
     "English/November/English 12_11_2025.md",
     "Дискретная математика/Октябрь/Лекция 3_10_2025.md",
@@ -257,7 +258,6 @@
     "attachments/CleanShot 2025-11-03 at 13.04.47.png",
     "attachments/CleanShot 2025-11-03 at 13.02.53.png",
     "БЖД/Лекции/Ноябрь",
-    "Курсовая план.md",
     "daily_notes",
     "ЯП/Октябрь",
     "АСВТ/Октябрь",
