@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalendar",
       "LiAperture",
       "LiPin",
       "LiExcalidrawIcon",
-      "LiLanguages",
-      "LiMathFunction"
+      "LiLanguages"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,6 @@
   "Дискретная математика": "LiMath",
   "Матан": "LiMathFunction",
   "Дополнительные лекции/Наука будущего": "LiAperture",
-  "Дополнительные лекции": "LiAperture"
+  "Дополнительные лекции": "LiAperture",
+  "daily_notes": "LiCalendar"
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "489d05a074bc566a",
+        "id": "3f40839cd2cde777",
         "type": "tabs",
         "children": [
           {
-            "id": "ab28e63b2d2d4606",
+            "id": "539d520df1bf27e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "БЖД/Лекции/Октябрь/БЖД 27_10_2025.md",
+                "file": "БЖД/Лекции/Ноябрь/Лекция 17_11_2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "БЖД 27_10_2025"
+              "title": "Лекция 17_11_2025"
             }
           }
         ]
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ProgrammingLanguages",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "БЖД/Лекции/Октябрь/БЖД 27_10_2025.md",
+                "file": "ЯП/Октябрь/ЯП 28_10_2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for БЖД 27_10_2025"
+              "title": "Backlinks for ЯП 28_10_2025"
             }
           },
           {
@@ -170,26 +170,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/October/English 22_10_2025.md",
+                "file": "БЖД/Лекции/Ноябрь/Лекция 17_11_2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of English 22_10_2025"
-            }
-          },
-          {
-            "id": "1dc68de1de43c742",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "title": "Outline of Лекция 17_11_2025"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "b5c4abf121e4747d",
@@ -210,13 +201,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -224,53 +213,57 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "ab28e63b2d2d4606",
+  "active": "539d520df1bf27e0",
   "lastOpenFiles": [
-    "БЖД/Доклады/Электромагнитное поле Земли.md",
-    "БЖД/Лекции/Октябрь/БЖД 27_10_2025.md",
-    "Untitled.md",
-    "БЖД/Лекции/Октябрь/БЖД 20_10_2025.md",
-    "ЯП/Октябрь/ЯП 21_10_2025.md",
-    "Дискретная математика/Сентябрь/Дискетная математика 5_09_2025.md",
-    "Дискретная математика/Сентябрь/Дискретная математика 12_09_2025.md",
-    "English/October/English 22_10_2025.md",
-    "English/October/English 20_10_2025.md",
-    "Untitled 1212.md",
-    "daily_notes/20-10-2025.md",
-    "daily_notes/27-10-2025.md",
-    "daily_notes",
-    "БЖД/Практики/Практики.md",
-    "БЖД/Лекции/Октябрь/БЖД 06_10_2025.md",
-    "БЖД/Лекции/Октябрь/БЖД 13_10_2025.md",
-    "БЖД/Практики/Практика 20_10_2025.md",
-    "attachments/CleanShot 2025-10-20 at 13.28.42@2x.png",
-    "БЖД/Практики/Практика 29_09_2025.md",
-    "БЖД/Доклады/Зрительный анализатор.md",
-    "БЖД/Практики/Практика 22_09_2025.md",
-    "БЖД/Доклады/Доклады.md",
-    "БЖД/БЖД.md",
-    "English/October/English 15_10_2025.md",
-    "БЖД/Практики/Практика 14_10_2025.md",
-    "English/October/English 08_10_2025.md",
-    "English/October/English 06_10_2025.md",
+    "Доклад.md",
+    "БЖД/Лекции/Ноябрь/Лекция 17_11_2025.md",
+    "daily_notes/17-11-2025.md",
+    "daily_notes/24-11-2025.md",
+    "English/November/English 17_11_2025.md",
+    "БЖД/Лекции/Untitled.md",
+    "ЯП/Ноябрь/ЯП 11_11_2025.md",
+    "ЯП/Октябрь/ЯП 28_10_2025.md",
+    "English/November/English 12_11_2025.md",
     "Дискретная математика/Октябрь/Лекция 3_10_2025.md",
+    "ЯП/Октябрь/ЯП 21_10_2025.md",
+    "ЯП/Ноябрь",
+    "БЖД/Практики/Практика 3_11_2025.md",
+    "БЖД/Практики/Практика 21_10_2025.md",
+    "БЖД/Лекции/Ноябрь/Лекция 3_11_2025.md",
+    "БЖД/Практики/Практика 14_10_2025.md",
+    "БЖД/Лекции/Октябрь/БЖД 20_10_2025.md",
+    "БЖД/Лекции/Ноябрь/Лекция 10_11_2025.md",
+    "English/November/English 10_11_2025.md",
+    "English/November/English 5_11_2025.md",
+    "attachments/Figure_1.png",
+    "Excalidraw/Drawing 2025-11-09 08.26.45.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-09 07.34.14.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-09 07.44.04.excalidraw 1.md",
+    "Excalidraw/Drawing 2025-11-09 07.44.04.excalidraw.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "English/November",
+    "attachments/CleanShot 2025-11-03 at 13.18.34.png",
+    "attachments/CleanShot 2025-11-03 at 13.16.42.png",
+    "attachments/CleanShot 2025-11-03 at 13.14.30.png",
+    "attachments/CleanShot 2025-11-03 at 13.13.37.png",
+    "attachments/CleanShot 2025-11-03 at 13.13.05.png",
+    "attachments/CleanShot 2025-11-03 at 13.09.14.png",
+    "attachments/CleanShot 2025-11-03 at 13.07.08.png",
+    "attachments/CleanShot 2025-11-03 at 13.04.47.png",
+    "attachments/CleanShot 2025-11-03 at 13.02.53.png",
+    "БЖД/Лекции/Ноябрь",
+    "Курсовая план.md",
+    "daily_notes",
     "ЯП/Октябрь",
     "АСВТ/Октябрь",
     "БЖД/Лекции/Октябрь",
     "БЖД/Лекции",
-    "attachments/CleanShot 2025-10-06 at 12.06.14@2x.png",
     "Дополнительные лекции",
-    "Наука будущего/Untitled",
-    "Дискретная математика/Октябрь",
-    "Бэкенд/Октябрь",
-    "English/October",
-    "attachments/biorythms_marked.png",
-    "attachments/CleanShot 2025-09-22 at 15.20.21@2x.png",
-    "attachments/CleanShot 2025-09-22 at 15.09.56@2x.png",
-    "attachments/photo_2025-09-02 11.22.34.jpeg",
-    "attachments/photo_2025-09-02 10.29.33.jpeg"
+    "Наука будущего/Untitled"
   ]
 }

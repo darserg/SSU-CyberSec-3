@@ -447,7 +447,7 @@
     "settings": {
       "codeblock": {
         "lineNumbers": true,
-        "unwrapLines": false,
+        "unwrapLines": true,
         "wrapLinesActive": true,
         "curvature": 7
       },
@@ -459,7 +459,7 @@
         "title": {
           "textFont": "",
           "textBold": false,
-          "textItalic": true
+          "textItalic": false
         },
         "languageTag": {
           "display": "none",
@@ -476,11 +476,11 @@
           "displayVersion": true,
           "displayTimestamp": true
         },
-        "fontSize": 14,
+        "fontSize": 16,
         "foldPlaceholder": ""
       },
       "highlights": {
-        "activeCodeblockLine": false,
+        "activeCodeblockLine": true,
         "activeEditorLine": false
       },
       "inline": {
@@ -574,7 +574,7 @@
         "highlights": {
           "activeCodeblockLineColour": "#073642",
           "activeEditorLineColour": "#468eeb33",
-          "defaultColour": "#054b5c",
+          "defaultColour": "#10A035",
           "alternativeHighlights": {}
         },
         "inline": {
