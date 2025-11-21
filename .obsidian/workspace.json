@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "365601f58fd1331b",
+        "id": "0f3bf0f572b9788f",
         "type": "tabs",
         "children": [
           {
-            "id": "b10dc9ee4986c987",
+            "id": "7038a38a240cc5b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ЯП/Ноябрь/ЯП 18_11_2025.md",
+                "file": "ЯП/Ноябрь/ЯП 21_11_2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ЯП 18_11_2025"
+              "title": "ЯП 21_11_2025"
             }
           }
         ]
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ЯП/Ноябрь/ЯП 18_11_2025.md",
+                "file": "English/November/English 19_11_2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ЯП 18_11_2025"
+              "title": "Outline of English 19_11_2025"
             }
           }
         ],
@@ -201,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,11 +218,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b10dc9ee4986c987",
+  "active": "7038a38a240cc5b7",
   "lastOpenFiles": [
-    "ЯП/Ноябрь/ЯП 11_11_2025.md",
+    "ЯП/Ноябрь/ЯП 21_11_2025.md",
+    "Excalidraw/Drawing 2025-11-21 14.43.28.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-21 14.40.33.excalidraw.md",
     "ЯП/Ноябрь/ЯП 18_11_2025.md",
+    "English/November/English 19_11_2025.md",
     "БЖД/Лекции/Ноябрь/Лекция 17_11_2025.md",
+    "БЖД/Лекции/Ноябрь/Лекция 10_11_2025.md",
+    "БЖД/Доклады/Доклады.md",
+    "ЯП/Ноябрь/ЯП 11_11_2025.md",
     "Доклад.md",
     "daily_notes/17-11-2025.md",
     "daily_notes/24-11-2025.md",
@@ -237,16 +244,10 @@
     "БЖД/Лекции/Ноябрь/Лекция 3_11_2025.md",
     "БЖД/Практики/Практика 14_10_2025.md",
     "БЖД/Лекции/Октябрь/БЖД 20_10_2025.md",
-    "БЖД/Лекции/Ноябрь/Лекция 10_11_2025.md",
     "English/November/English 10_11_2025.md",
     "English/November/English 5_11_2025.md",
     "attachments/Figure_1.png",
     "Excalidraw/Drawing 2025-11-09 08.26.45.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-09 07.34.14.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-09 07.44.04.excalidraw 1.md",
-    "Excalidraw/Drawing 2025-11-09 07.44.04.excalidraw.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
     "English/November",
     "attachments/CleanShot 2025-11-03 at 13.18.34.png",
     "attachments/CleanShot 2025-11-03 at 13.16.42.png",
