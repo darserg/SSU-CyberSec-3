@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0f3bf0f572b9788f",
+        "id": "9b3f97af036be751",
         "type": "tabs",
         "children": [
           {
-            "id": "7038a38a240cc5b7",
+            "id": "7e5f49434caa1a12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ЯП/Ноябрь/ЯП 21_11_2025.md",
+                "file": "ЯП/Декабрь/ЯП 05_12_2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ЯП 21_11_2025"
+              "title": "ЯП 05_12_2025"
             }
           }
         ]
@@ -115,7 +115,6 @@
       {
         "id": "589273f7a4a30f01",
         "type": "tabs",
-        "dimension": 63.555992141453835,
         "children": [
           {
             "id": "0042e19c38a94e03",
@@ -170,25 +169,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/November/English 19_11_2025.md",
+                "file": "ЯП/Декабрь/ЯП 05_12_2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of English 19_11_2025"
+              "title": "Outline of ЯП 05_12_2025"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "b5c4abf121e4747d",
-        "type": "tabs",
-        "dimension": 36.444007858546165,
-        "children": [
+          },
           {
-            "id": "804e06576307fb19",
+            "id": "8b4b6e1a9cfe22cd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "cd836c27b30cc8d6",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -197,7 +202,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -206,48 +212,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "omnisearch:Omnisearch": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "graph:Open graph view": false
     }
   },
-  "active": "7038a38a240cc5b7",
+  "active": "7e5f49434caa1a12",
   "lastOpenFiles": [
-    "ЯП/Ноябрь/ЯП 21_11_2025.md",
-    "Excalidraw/Drawing 2025-11-21 14.43.28.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-21 14.40.33.excalidraw.md",
-    "ЯП/Ноябрь/ЯП 18_11_2025.md",
-    "English/November/English 19_11_2025.md",
-    "БЖД/Лекции/Ноябрь/Лекция 17_11_2025.md",
-    "БЖД/Лекции/Ноябрь/Лекция 10_11_2025.md",
-    "БЖД/Доклады/Доклады.md",
-    "ЯП/Ноябрь/ЯП 11_11_2025.md",
-    "Доклад.md",
-    "daily_notes/17-11-2025.md",
-    "daily_notes/24-11-2025.md",
-    "English/November/English 17_11_2025.md",
-    "БЖД/Лекции/Untitled.md",
-    "ЯП/Октябрь/ЯП 28_10_2025.md",
-    "English/November/English 12_11_2025.md",
-    "Дискретная математика/Октябрь/Лекция 3_10_2025.md",
-    "ЯП/Октябрь/ЯП 21_10_2025.md",
-    "ЯП/Ноябрь",
+    "ЯП/Декабрь/ЯП 05_12_2025.md",
+    "ЯП/Декабрь",
+    "English/December/English 03_12_2025.md",
+    "Untitled.md",
+    "English/December/English 01_12_2025.md",
     "БЖД/Практики/Практика 3_11_2025.md",
+    "БЖД/Лекции/Декабрь/Лекция 01_12_2025.md",
+    "ЯП/Критерии лабораторной работы.md",
+    "daily_notes/08-12-2025.md",
+    "БЖД/Лекции/Декабрь",
+    "БЖД/Практики/Практика 22_09_2025.md",
     "БЖД/Практики/Практика 21_10_2025.md",
-    "БЖД/Лекции/Ноябрь/Лекция 3_11_2025.md",
     "БЖД/Практики/Практика 14_10_2025.md",
-    "БЖД/Лекции/Октябрь/БЖД 20_10_2025.md",
-    "English/November/English 10_11_2025.md",
-    "English/November/English 5_11_2025.md",
+    "БЖД/Практики/Практика 29_09_2025.md",
+    "БЖД/Лекции/Ноябрь/Лекция 24_11_2025.md",
+    "БЖД/Лекции/Ноябрь/Лекция 17_11_2025.md",
+    "English/December",
+    "ЯП/Ноябрь/ЯП 21_11_2025.md",
+    "ЯП/Ноябрь/ЯП 18_11_2025.md",
+    "ЯП/Ноябрь/ЯП 11_11_2025.md",
+    "ЯП/Ноябрь/ЯП 25_11_2025.md",
+    "ЯП/Сентябрь/ЯП 09_09_2025.md",
+    "БЖД/Лекции/Ноябрь/Лекция 3_11_2025.md",
+    "БЖД/Доклады/Зачётная работа.md",
+    "daily_notes/24-11-2025.md",
+    "daily_notes/17-11-2025.md",
+    "daily_notes/27-10-2025.md",
+    "daily_notes/05-11-2025.md",
+    "БЖД/Практики/Практики.md",
+    "ЯП/Ноябрь",
     "attachments/Figure_1.png",
-    "Excalidraw/Drawing 2025-11-09 08.26.45.excalidraw.md",
     "English/November",
     "attachments/CleanShot 2025-11-03 at 13.18.34.png",
     "attachments/CleanShot 2025-11-03 at 13.16.42.png",
@@ -262,9 +271,6 @@
     "daily_notes",
     "ЯП/Октябрь",
     "АСВТ/Октябрь",
-    "БЖД/Лекции/Октябрь",
-    "БЖД/Лекции",
-    "Дополнительные лекции",
-    "Наука будущего/Untitled"
+    "БЖД/Лекции/Октябрь"
   ]
 }
