@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b3f97af036be751",
+        "id": "4dace87f149cfebd",
         "type": "tabs",
         "children": [
           {
-            "id": "7e5f49434caa1a12",
+            "id": "ce4fe2b80d971b1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ЯП/Декабрь/ЯП 05_12_2025.md",
+                "file": "БЖД/Лекции/Декабрь/Лекция 08_12_2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ЯП 05_12_2025"
+              "title": "Лекция 08_12_2025"
             }
           }
         ]
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ЯП/Декабрь/ЯП 05_12_2025.md",
+                "file": "БЖД/Лекции/Декабрь/Лекция 08_12_2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ЯП 05_12_2025"
+              "title": "Outline of Лекция 08_12_2025"
             }
           },
           {
@@ -191,7 +191,14 @@
               "icon": "lucide-ghost",
               "title": "all-properties"
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "6b6550cbaf14935f",
+        "type": "tabs",
+        "children": [
           {
             "id": "cd836c27b30cc8d6",
             "type": "leaf",
@@ -202,13 +209,11 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,8 +229,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7e5f49434caa1a12",
+  "active": "ce4fe2b80d971b1c",
   "lastOpenFiles": [
+    "daily_notes/15-12-2025.md",
+    "БЖД/Лекции/Декабрь/Лекция 08_12_2025.md",
+    "English/December/English 08_12_2025.md",
     "ЯП/Декабрь/ЯП 05_12_2025.md",
     "ЯП/Декабрь",
     "English/December/English 03_12_2025.md",
@@ -252,9 +260,6 @@
     "БЖД/Доклады/Зачётная работа.md",
     "daily_notes/24-11-2025.md",
     "daily_notes/17-11-2025.md",
-    "daily_notes/27-10-2025.md",
-    "daily_notes/05-11-2025.md",
-    "БЖД/Практики/Практики.md",
     "ЯП/Ноябрь",
     "attachments/Figure_1.png",
     "English/November",
