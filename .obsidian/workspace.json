@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4dace87f149cfebd",
+        "id": "4d9a4e0a5ddb3355",
         "type": "tabs",
         "children": [
           {
-            "id": "ce4fe2b80d971b1c",
+            "id": "4013a3738a190da4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "БЖД/Лекции/Декабрь/Лекция 08_12_2025.md",
+                "file": "ЯП/Ноябрь/ЯП 18_11_2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Лекция 08_12_2025"
+              "title": "ЯП 18_11_2025"
             }
           }
         ]
@@ -115,6 +115,7 @@
       {
         "id": "589273f7a4a30f01",
         "type": "tabs",
+        "dimension": 61.29666011787819,
         "children": [
           {
             "id": "0042e19c38a94e03",
@@ -169,27 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "БЖД/Лекции/Декабрь/Лекция 08_12_2025.md",
+                "file": "ЯП/Ноябрь/ЯП 18_11_2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Лекция 08_12_2025"
-            }
-          },
-          {
-            "id": "8b4b6e1a9cfe22cd",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
+              "title": "Outline of ЯП 18_11_2025"
             }
           }
         ],
@@ -198,6 +185,7 @@
       {
         "id": "6b6550cbaf14935f",
         "type": "tabs",
+        "dimension": 38.70333988212181,
         "children": [
           {
             "id": "cd836c27b30cc8d6",
@@ -229,10 +217,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ce4fe2b80d971b1c",
+  "active": "4013a3738a190da4",
   "lastOpenFiles": [
-    "daily_notes/15-12-2025.md",
+    "ЯП/Декабрь/ЯП 09_12_2025.md",
+    "ЯП/Ноябрь/ЯП 11_11_2025.md",
     "БЖД/Лекции/Декабрь/Лекция 08_12_2025.md",
+    "daily_notes/15-12-2025.md",
     "English/December/English 08_12_2025.md",
     "ЯП/Декабрь/ЯП 05_12_2025.md",
     "ЯП/Декабрь",
@@ -253,13 +243,11 @@
     "English/December",
     "ЯП/Ноябрь/ЯП 21_11_2025.md",
     "ЯП/Ноябрь/ЯП 18_11_2025.md",
-    "ЯП/Ноябрь/ЯП 11_11_2025.md",
     "ЯП/Ноябрь/ЯП 25_11_2025.md",
     "ЯП/Сентябрь/ЯП 09_09_2025.md",
     "БЖД/Лекции/Ноябрь/Лекция 3_11_2025.md",
     "БЖД/Доклады/Зачётная работа.md",
     "daily_notes/24-11-2025.md",
-    "daily_notes/17-11-2025.md",
     "ЯП/Ноябрь",
     "attachments/Figure_1.png",
     "English/November",
