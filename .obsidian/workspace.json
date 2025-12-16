@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d9a4e0a5ddb3355",
+        "id": "c90d4ca5e0d00867",
         "type": "tabs",
         "children": [
           {
-            "id": "4013a3738a190da4",
+            "id": "967e3092459831da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ЯП/Декабрь/ЯП 12_12_2025.md",
+                "file": "ЯП/Декабрь/ЯП 16_12_2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ЯП 12_12_2025"
+              "title": "ЯП 16_12_2025"
             }
           }
         ]
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ЯП/Декабрь/ЯП 12_12_2025.md",
+                "file": "ЯП/Декабрь/ЯП 16_12_2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ЯП 12_12_2025"
+              "title": "Outline of ЯП 16_12_2025"
             }
           }
         ],
@@ -201,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,14 +217,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "4013a3738a190da4",
+  "active": "967e3092459831da",
   "lastOpenFiles": [
+    "nil, nil, nil.md",
+    "ЯП/Декабрь/ЯП 16_12_2025.md",
+    "БЖД/Лекции/Декабрь/Лекция 15_12_2025.md",
     "ЯП/Декабрь/ЯП 12_12_2025.md",
+    "daily_notes/15-12-2025.md",
     "ЯП/Ноябрь/ЯП 18_11_2025.md",
     "ЯП/Декабрь/ЯП 09_12_2025.md",
     "ЯП/Ноябрь/ЯП 11_11_2025.md",
     "БЖД/Лекции/Декабрь/Лекция 08_12_2025.md",
-    "daily_notes/15-12-2025.md",
     "English/December/English 08_12_2025.md",
     "ЯП/Декабрь/ЯП 05_12_2025.md",
     "ЯП/Декабрь",
@@ -246,9 +248,6 @@
     "English/December",
     "ЯП/Ноябрь/ЯП 21_11_2025.md",
     "ЯП/Ноябрь/ЯП 25_11_2025.md",
-    "ЯП/Сентябрь/ЯП 09_09_2025.md",
-    "БЖД/Лекции/Ноябрь/Лекция 3_11_2025.md",
-    "БЖД/Доклады/Зачётная работа.md",
     "ЯП/Ноябрь",
     "attachments/Figure_1.png",
     "English/November",
