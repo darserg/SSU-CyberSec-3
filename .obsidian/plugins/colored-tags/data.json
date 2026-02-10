@@ -27,7 +27,10 @@
     "Haskell": 15,
     "Has": 16,
     "LISP": 17,
-    "RUBY": 18
+    "RUBY": 18,
+    "Programming": 19,
+    "REST": 20,
+    "Testing": 21
   },
   "_version": 3
 }

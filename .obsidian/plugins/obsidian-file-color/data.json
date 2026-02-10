@@ -20,48 +20,56 @@
   ],
   "fileColors": [
     {
-      "path": "АСВТ",
+      "path": "Третий семестр/АСВТ",
       "color": "bzfFF9x0UDG7wI_QLbIbU"
     },
     {
-      "path": "БЖД",
+      "path": "Третий семестр/БЖД",
       "color": "aeV3qqyu_Vt-QUAEuD4kv"
     },
     {
-      "path": "Бэкенд",
+      "path": "Третий семестр/Бэкенд",
       "color": "bzfFF9x0UDG7wI_QLbIbU"
     },
     {
-      "path": "Дискретная математика",
+      "path": "Третий семестр/Дискретная математика",
       "color": "l7htitNe9VncAv0Wn2t6B"
     },
     {
-      "path": "ЯП",
+      "path": "Третий семестр/ЯП",
       "color": "bzfFF9x0UDG7wI_QLbIbU"
     },
     {
-      "path": "English",
+      "path": "Третий семестр/English",
       "color": "aeV3qqyu_Vt-QUAEuD4kv"
     },
     {
-      "path": "Матан",
+      "path": "Третий семестр/Матан",
       "color": "l7htitNe9VncAv0Wn2t6B"
     },
     {
-      "path": "Дополнительные лекции/Наука будущего",
+      "path": "Третий семестр/Дополнительные лекции/Наука будущего",
       "color": "aeV3qqyu_Vt-QUAEuD4kv"
     },
     {
-      "path": "Дополнительные лекции",
+      "path": "Третий семестр/Дополнительные лекции",
       "color": "aeV3qqyu_Vt-QUAEuD4kv"
     },
     {
-      "path": "БЖД/БЖД.md",
+      "path": "Третий семестр/БЖД/БЖД.md",
       "color": "aeV3qqyu_Vt-QUAEuD4kv"
     },
     {
-      "path": "Дискретная математика/Сентябрь/Дискетная математика 5_09_2025.md",
+      "path": "Третий семестр/Дискретная математика/Сентябрь/Дискетная математика 5_09_2025.md",
       "color": "l7htitNe9VncAv0Wn2t6B"
+    },
+    {
+      "path": "Четвёртый семестр/English",
+      "color": "aeV3qqyu_Vt-QUAEuD4kv"
+    },
+    {
+      "path": "Четвёртый семестр/Бэкенд",
+      "color": "bzfFF9x0UDG7wI_QLbIbU"
     }
   ]
 }

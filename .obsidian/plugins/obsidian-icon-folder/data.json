@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiComputer",
       "LiCalendar",
       "LiAperture",
       "LiPin",
-      "LiExcalidrawIcon",
-      "LiLanguages"
+      "LiExcalidrawIcon"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,16 +34,18 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "АСВТ": "LiCpu",
-  "БЖД": "🧷",
-  "Бэкенд": "LiComputer",
-  "ЯП": "LiCpu",
-  "English": "LiLanguages",
   "Excalidraw": "LiExcalidrawIcon",
+  "daily_notes": "LiCalendar",
+  "Третий семестр/АСВТ": "LiCpu",
+  "Третий семестр/БЖД": "🧷",
+  "Третий семестр/Бэкенд": "LiComputer",
+  "Третий семестр/Дискретная математика": "LiMath",
+  "Третий семестр/Дополнительные лекции": "LiAperture",
+  "Третий семестр/Дополнительные лекции/Наука будущего": "LiAperture",
+  "Третий семестр/Матан": "LiMathFunction",
+  "Третий семестр/ЯП": "LiCpu",
   "attachments": "LiPin",
-  "Дискретная математика": "LiMath",
-  "Матан": "LiMathFunction",
-  "Дополнительные лекции/Наука будущего": "LiAperture",
-  "Дополнительные лекции": "LiAperture",
-  "daily_notes": "LiCalendar"
+  "Третий семестр/English": "LiLanguages",
+  "Четвёртый семестр/English": "LiLanguages",
+  "Четвёртый семестр/Бэкенд": "LiComputer"
 }
