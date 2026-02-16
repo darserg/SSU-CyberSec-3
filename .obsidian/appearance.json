@@ -1,10 +1,10 @@
 {
   "translucency": false,
-  "cssTheme": "GitHub Theme",
+  "cssTheme": "Tokyo Night",
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrainsMono Nerd Font",
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
-  "accentColor": "#53a25c",
+  "accentColor": "",
   "theme": "obsidian",
   "baseFontSize": 16
 }

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiComputer",
-      "LiCalendar",
-      "LiAperture",
-      "LiPin",
-      "LiExcalidrawIcon"
+      "LiMathFunction",
+      "LiBrush",
+      "LiFunctionSquare",
+      "LiCodeXml",
+      "LiLink"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,16 @@
   "attachments": "LiPin",
   "Третий семестр/English": "LiLanguages",
   "Четвёртый семестр/English": "LiLanguages",
-  "Четвёртый семестр/Бэкенд": "LiComputer"
+  "Четвёртый семестр/Бэкенд": "LiComputer",
+  "Четвёртый семестр/Компьютерные сети": "LiNetwork",
+  "Четвёртый семестр/Дискретная математика": {
+    "iconName": "LiFunctionSquare",
+    "iconColor": "#532f38"
+  },
+  "Четвёртый семестр/Ознакомительная практика": "LiCodeXml",
+  "Четвёртый семестр/Компьютерная графика": "LiBrush",
+  "Четвёртый семестр/Теория вероятности": {
+    "iconName": "LiFunctionSquare",
+    "iconColor": "#532f38"
+  }
 }
