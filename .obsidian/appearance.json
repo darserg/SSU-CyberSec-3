@@ -6,5 +6,6 @@
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
   "accentColor": "",
   "theme": "obsidian",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "showRibbon": false
 }
