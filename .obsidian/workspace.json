@@ -11,10 +11,24 @@
             "id": "9b4ad9c5d408d831",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Четвёртый семестр/Бэкенд/17_03_2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "17_03_2026"
             }
           }
         ]
@@ -186,8 +200,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2403d9c5b8e7e66c",
+  "active": "9b4ad9c5d408d831",
   "lastOpenFiles": [
+    "Четвёртый семестр/Бэкенд/17_03_2026.md",
     "Без названия.md",
     "Четвёртый семестр/Компьютерная графика/16_03_2026 Лекция.md",
     "Четвёртый семестр/Теория вероятности/16_03_2026 Практика.md",
@@ -213,7 +228,6 @@
     "Четвёртый семестр/Дискретная математика/12_02_2026 Практика.md",
     "Четвёртый семестр/Дискретная математика/26_02_2026 Практика.md",
     "Четвёртый семестр/Компьютерные сети/05_03_2026.md",
-    "Третий семестр/ЯП/Октябрь/ЯП 21_10_2025.md",
     "Четвёртый семестр/Математический анализ",
     "Untitled.base",
     "Четвёртый семестр/Теория вероятности",
