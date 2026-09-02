@@ -36,27 +36,27 @@
   },
   "Excalidraw": "LiExcalidrawIcon",
   "daily_notes": "LiCalendar",
-  "Третий семестр/АСВТ": "LiCpu",
-  "Третий семестр/БЖД": "🧷",
-  "Третий семестр/Бэкенд": "LiComputer",
-  "Третий семестр/Дискретная математика": "LiMath",
-  "Третий семестр/Дополнительные лекции": "LiAperture",
-  "Третий семестр/Дополнительные лекции/Наука будущего": "LiAperture",
-  "Третий семестр/Матан": "LiMathFunction",
-  "Третий семестр/ЯП": "LiCpu",
   "attachments": "LiPin",
-  "Третий семестр/English": "LiLanguages",
-  "Четвёртый семестр/English": "LiLanguages",
-  "Четвёртый семестр/Бэкенд": "LiComputer",
-  "Четвёртый семестр/Компьютерные сети": "LiNetwork",
-  "Четвёртый семестр/Дискретная математика": {
+  "04_Sem/English": "LiLanguages",
+  "04_Sem/Компьютерные сети": "LiNetwork",
+  "04_Sem/Дискретная математика": {
     "iconName": "LiFunctionSquare",
     "iconColor": "#532f38"
   },
-  "Четвёртый семестр/Ознакомительная практика": "LiCodeXml",
-  "Четвёртый семестр/Компьютерная графика": "LiBrush",
-  "Четвёртый семестр/Теория вероятности": {
+  "04_Sem/Ознакомительная практика": "LiCodeXml",
+  "04_Sem/Бэкенд": "LiComputer",
+  "04_Sem/Компьютерная графика": "LiBrush",
+  "04_Sem/Теория вероятности": {
     "iconName": "LiFunctionSquare",
     "iconColor": "#532f38"
-  }
+  },
+  "03_Sem/English": "LiLanguages",
+  "03_Sem/Бэкенд": "LiComputer",
+  "03_Sem/АСВТ": "LiCpu",
+  "03_Sem/Дискретная математика": "LiMath",
+  "03_Sem/БЖД": "🧷",
+  "03_Sem/Дополнительные лекции": "LiAperture",
+  "03_Sem/Матан": "LiMathFunction",
+  "03_Sem/ЯП": "LiCpu",
+  "03_Sem/Дополнительные лекции/Наука будущего": "LiAperture"
 }
