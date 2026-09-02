@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed2bd2e23a9a550a",
+        "id": "a4c132be49ccd2c7",
         "type": "tabs",
         "children": [
           {
-            "id": "2a5011fdcc1e8584",
+            "id": "9b9899244c5f62d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Sem/Системы управления базами данных/2026_09_02 Лекция.md",
+                "file": "05_Sem/Теория информации/2026_09_02 Лекция.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.50390243530273
+    "width": 300.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "1f76b0b2937f44c2",
@@ -202,8 +203,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2a5011fdcc1e8584",
+  "active": "9b9899244c5f62d6",
   "lastOpenFiles": [
+    "05_Sem/Теория информации/2026_09_02 Лекция.md",
     "05_Sem/Системы управления базами данных/2026_09_02 Лекция.md",
     "05_Sem/Основы компьютерной безопасности",
     "05_Sem/Методы программирования",
@@ -236,7 +238,6 @@
     "Четвёртый семестр/English/2026_03_11.md",
     "04_Sem/English/2026_03_25.md",
     "04_Sem/English/2026_04_01.md",
-    "04_Sem/English/2026_04_06.md",
     "attachments/Pasted image 20260401090756.png",
     "04_Sem/Математический анализ",
     "Untitled.base",
