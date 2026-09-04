@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7c7926952b4a1df",
+        "id": "4f6566d600c017be",
         "type": "tabs",
         "children": [
           {
-            "id": "16b901937b000294",
+            "id": "33c2cf01d15f6bad",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.50390243530273,
-    "collapsed": true
+    "width": 300.50390243530273
   },
   "right": {
     "id": "1f76b0b2937f44c2",
@@ -185,12 +184,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "omnisearch:Omnisearch": true,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "16b901937b000294",
+  "active": "2403d9c5b8e7e66c",
   "lastOpenFiles": [
+    "05_Sem/Теория вероятности и статистика/2026_09_04.md",
+    "05_Sem/Теория вероятности и статистика",
+    "05_Sem/Основы компьютерной безопасности/2026_09_04 Лекция.md",
     "05_Sem/Методы программирования/2026_09_03 Лекция.md",
     "Excalidraw/Drawing 2026-09-03 12.54.10.excalidraw.md",
     "05_Sem/Фронтенд-разработка/2026_09_02 Лекция.md",
@@ -222,12 +223,9 @@
     "04_Sem/English/2026_02_18.md",
     "04_Sem/English/2026_02_25.md",
     "04_Sem/English/2026_03_02.md",
-    "04_Sem/English/2026_03_04.md",
-    "04_Sem/English/2026_03_16.md",
     "attachments/Pasted image 20260401090756.png",
     "04_Sem/Математический анализ",
     "Untitled.base",
-    "04_Sem/Теория вероятности",
     "attachments/CleanShot 2026-02-09 at 10.51.54@2x.png",
     "attachments/CleanShot 2026-02-09 at 10.51.48@2x.png",
     "attachments/CleanShot 2026-02-09 at 10.51.44@2x.png",
