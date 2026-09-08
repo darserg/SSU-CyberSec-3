@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f6566d600c017be",
+        "id": "09b8679779697a14",
         "type": "tabs",
         "children": [
           {
-            "id": "33c2cf01d15f6bad",
+            "id": "83e1a94adc12a7af",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.50390243530273
+    "width": 300.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "1f76b0b2937f44c2",
@@ -187,8 +188,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2403d9c5b8e7e66c",
+  "active": "83e1a94adc12a7af",
   "lastOpenFiles": [
+    "05_Sem/Сети и системы передачи информации/09_08_2026.md",
+    "Excalidraw/Drawing 2026-09-08 12.56.49.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-08 12.51.29.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-08 12.25.34.excalidraw.md",
+    "05_Sem/Системы управления базами данных/Untitled.md",
     "05_Sem/Теория вероятности и статистика/2026_09_04.md",
     "05_Sem/Теория вероятности и статистика",
     "05_Sem/Основы компьютерной безопасности/2026_09_04 Лекция.md",
@@ -218,11 +224,6 @@
     "Четвёртый семестр/Теория вероятности/27_04_2026 Лекция.md",
     "04_Sem/English/2026_05_11.md",
     "04_Sem/English/2026_02_09.md",
-    "04_Sem/English/2026_02_11.md",
-    "04_Sem/English/2026_02_16.md",
-    "04_Sem/English/2026_02_18.md",
-    "04_Sem/English/2026_02_25.md",
-    "04_Sem/English/2026_03_02.md",
     "attachments/Pasted image 20260401090756.png",
     "04_Sem/Математический анализ",
     "Untitled.base",

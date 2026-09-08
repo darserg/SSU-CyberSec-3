@@ -5,7 +5,7 @@
   "textFontFamily": "JetBrainsMono Nerd Font",
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
   "accentColor": "",
-  "theme": "obsidian",
+  "theme": "system",
   "baseFontSize": 16,
   "showRibbon": false
 }

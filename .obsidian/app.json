@@ -2,5 +2,11 @@
   "readableLineLength": false,
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

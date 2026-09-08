@@ -18,11 +18,41 @@
   ],
   "macros": [],
   "explorer": [],
+  "textToolbarCommands": [],
   "hide": {
     "statusbar": [],
-    "leftRibbon": []
+    "leftRibbon": [],
+    "editorMenuItems": [],
+    "fileMenuItems": [],
+    "seenEditorMenuItems": [],
+    "seenFileMenuItems": [
+      "New note",
+      "New folder",
+      "Rename...",
+      "Duplicate",
+      "Delete",
+      "Move folder to...",
+      "from vault folder",
+      "from system root",
+      "Reveal in Finder",
+      "Search in folder",
+      "New canvas",
+      "Bookmark...",
+      "New base",
+      "Change icon",
+      "Add command",
+      "New drawing",
+      "Open in new tab",
+      "Open to the right",
+      "as Obsidian URL",
+      "Open in default app",
+      "Move file to...",
+      "Open in new window",
+      "Open version history",
+      "Merge entire file with..."
+    ]
   },
-  "spacing": 8,
+  "spacing": 0,
   "advancedToolbar": {
     "rowHeight": 48,
     "rowCount": 1,
@@ -32,5 +62,6 @@
     "mappedIcons": [],
     "tooltips": false,
     "heightOffset": 0
-  }
+  },
+  "spacingReset": true
 }
