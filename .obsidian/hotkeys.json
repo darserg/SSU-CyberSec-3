@@ -26,5 +26,18 @@
     }
   ],
   "global-search:open": [],
-  "editor:open-search": []
+  "editor:open-search": [],
+  "code-editor:format-code": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "easy-typing-obsidian:easy-typing-insert-codeblock": [],
+  "easy-typing-obsidian:easy-typing-toggle-comment": [],
+  "easy-typing-obsidian:easy-typing-format-switch": [],
+  "easy-typing-obsidian:easy-typing-goto-new-line-after-cur-line": []
 }

@@ -9,7 +9,9 @@
   "cmdr",
   "omnisearch",
   "highlightr-plugin",
-  "code-styler",
   "excalidraw-extras",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "easy-typing-obsidian",
+  "code-editor",
+  "code-styler"
 ]

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiMathFunction",
-      "LiBrush",
-      "LiFunctionSquare",
-      "LiCodeXml",
-      "LiLink"
+      "LiSignal",
+      "LiDatabase",
+      "LiNetwork",
+      "LiLock",
+      "LiMathFunction"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -58,5 +58,11 @@
   "03_Sem/Дополнительные лекции": "LiAperture",
   "03_Sem/Матан": "LiMathFunction",
   "03_Sem/ЯП": "LiCpu",
-  "03_Sem/Дополнительные лекции/Наука будущего": "LiAperture"
+  "03_Sem/Дополнительные лекции/Наука будущего": "LiAperture",
+  "05_Sem/Методы программирования": "LiCodeXml",
+  "05_Sem/Основы компьютерной безопасности": "LiLock",
+  "05_Sem/Операционные системы": "LiCodeXml",
+  "05_Sem/Сети и системы передачи информации": "LiNetwork",
+  "05_Sem/Системы управления базами данных": "LiDatabase",
+  "05_Sem/Теория информации": "LiSignal"
 }
