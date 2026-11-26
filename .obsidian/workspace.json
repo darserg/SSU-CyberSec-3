@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88719a50a9d33248",
+        "id": "f93ee9141a0dfb10",
         "type": "tabs",
         "children": [
           {
-            "id": "3404fd72933973a0",
+            "id": "3890a36817d9efee",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.7421875
+    "width": 312.7421875,
+    "collapsed": true
   },
   "right": {
     "id": "1f76b0b2937f44c2",
@@ -140,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_notes/15-05-2026.md",
+                "file": "05_Sem/Методы программирования/2026_11_26 Лекция.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 15-05-2026"
+              "title": "Outline"
             }
           }
         ],
@@ -163,8 +164,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -188,8 +189,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3404fd72933973a0",
+  "active": "3890a36817d9efee",
   "lastOpenFiles": [
+    "05_Sem/Методы программирования/2026_11_26 Лекция.md",
+    "05_Sem/Методы программирования/2026_11_19 Лекция.md",
     "05_Sem/Теория информации/2026_11_25 Лекция.md",
     "05_Sem/Теория информации/2026_11_18 Лекция.md",
     "05_Sem/Методы программирования/2026_10_15 Лекция.md",
@@ -197,7 +200,6 @@
     "05_Sem/Методы программирования/2026_10_22 Лекция.md",
     "05_Sem/Методы программирования/2026_11_05 Лекция.md",
     "05_Sem/Методы программирования/2026_11_12 Лекция.md",
-    "05_Sem/Методы программирования/2026_11_19 Лекция.md",
     "05_Sem/Теория вероятности/2026_11_20 Практика.md",
     "05_Sem/Теория вероятности",
     "05_Sem/Теория информации/2026_11_11 Лекция.md",
@@ -216,7 +218,6 @@
     "03_Sem/БЖД/Практики/Практика 2025_09_22.md",
     "Untitled.md",
     "03_Sem/БЖД/Лекции/Сентябрь/2025_09_02 Лекция.md",
-    "05_Sem/Методы программирования/Отчёт/2026_10_06.md",
     "Untitled.canvas",
     "attachments/Figure_1.png",
     "attachments/photo_2025-09-02 11.22.34.jpeg",
