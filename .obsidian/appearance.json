@@ -1,8 +1,8 @@
 {
   "translucency": false,
   "cssTheme": "Atom",
-  "interfaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "Arial",
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
   "accentColor": "",
   "theme": "system",

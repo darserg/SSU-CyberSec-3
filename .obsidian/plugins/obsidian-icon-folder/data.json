@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArrowDown10",
+      "LiMathIntegralX",
+      "LiMath",
       "LiSignal",
-      "LiDatabase",
-      "LiNetwork",
-      "LiLock",
-      "LiMathFunction"
+      "LiDatabase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -64,5 +64,6 @@
   "05_Sem/Операционные системы": "LiCodeXml",
   "05_Sem/Сети и системы передачи информации": "LiNetwork",
   "05_Sem/Системы управления базами данных": "LiDatabase",
-  "05_Sem/Теория информации": "LiSignal"
+  "05_Sem/Теория информации": "LiSignal",
+  "05_Sem/Теория вероятности": "LiArrowDown10"
 }
